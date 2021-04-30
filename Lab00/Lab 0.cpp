@@ -1,5 +1,5 @@
 /*
-Lei Hao,lab 0, July 3rd 2019
+lab 0, July 3rd 2019
 */
 
 #include <iostream>
@@ -18,8 +18,8 @@ int main()
 }
 
 /*
-NAME:	Lei Hao
-E-MAIL:	xiayushan2003@gmail.com
+NAME:	
+E-MAIL:	
 MAJOR:	Computer Science
 COMPUTER EXPERIENCE:	none
 Program ended with exit code: 0
