@@ -1,8 +1,3 @@
-/*
- File name : lab_1.cpp
- Author  :  Lei Hao
- Date : July 12th 2019
-*/
 
 #include <iostream>
 using namespace std;
