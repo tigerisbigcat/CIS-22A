@@ -1,0 +1,8 @@
+Please enter the number of quarters: 3
+Please enter the number of dines: 0
+Please enter the number of nickels: 5
+Please enter the number of pennies: 23
+Thank you.
+
+The total value of 3 quarters, 0 dimes, 5 nickels and 23 pennies is $1.23.
+Program ended with exit code: 0
