@@ -1,7 +1,4 @@
 /*
- File name : lab_2.cpp
- Author  :  Lei Hao
- Date : July 16th 2019
  Description : What Taxation is all about.
  */
 
