@@ -29,7 +29,6 @@ int main()
 }
 
 /*
- Solution provided by Lei Hao.
 
  Please enter the number of quarters: 3
  Please enter the number of dines: 0
