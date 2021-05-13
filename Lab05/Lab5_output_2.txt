@@ -1,0 +1,31 @@
+************************************************************
+
+                  MONTHLY COST OF HOUSE
+
+************************************************************
+
+ SELLING PRICE                            $    400000.00
+ DOWN PAYMENT                             $     80000.00
+ AMOUNT OF LOAN                           $    320000.00
+
+ INTEREST RATE                    4.20 %
+ TAX RATE                         1.25 %
+
+ DURATION OF LOAN (YEARS)         30 yrs
+
+
+
+
+
+******************
+
+MONTHLY PAYMENT
+
+******************
+
+ MORTGAGE PAYMENT                         $      1564.85
+ UTILITIES                                $       300.00
+ PROPERTY TAXES                           $       416.67
+ INSURANCE                                $        45.83
+                                         ---------------
+                                          $      2327.35
