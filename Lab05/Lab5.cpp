@@ -1,7 +1,7 @@
 /*****************************************************************************
- Filename:      LeiHao_Lab5.cpp
+ Filename:      Lab5.cpp
  
- Author:        Lei Hao
+ Author:        
  
  Date:          2019.07.30
  
@@ -50,7 +50,7 @@ void output_data(double sell_price, double down_payment, double loan, double int
 //
 // Returns:    0
 //
-// Author:     Lei Hao
+// Author:    
 //
 // Date:       2019.7.30
 //
@@ -111,7 +111,7 @@ int main()
 //
 // Returns:    None
 //
-// Author:     Lei Hao
+// Author:     
 //
 // Date:       2019.7.30
 //
@@ -152,7 +152,7 @@ void input_info(double& sell_price, double& interest_rate, int& years_of_loan)
 //
 // Returns:    double – mmonthly_mortgage_payment + COST_OF_UTILITIES + mouthly_property_tax + COST_OF_INSURANCE
 //
-// Author:     Lei Hao
+// Author:     
 //
 // Date:       2019.7.30
 //
@@ -188,7 +188,7 @@ double cal_monthly_cost(double sell_price, double interest_rate, int years_of_lo
 //
 // Returns:    double – down payment
 //
-// Author:     Lei Hao
+// Author:     
 //
 // Date:       2019.7.30
 //
@@ -216,7 +216,7 @@ double down_payment(double sell_price)
 //
 // Returns:    double – amount of the loan
 //
-// Author:     Lei Hao
+// Author:     
 //
 // Date:       2019.7.30
 //
@@ -246,7 +246,7 @@ double amount_of_loan(double sell_price, double down_payment)
 //
 // Returns:    double – monthly mortgage
 //
-// Author:     Lei Hao
+// Author:     
 //
 // Date:       2019.7.30
 //
@@ -290,7 +290,7 @@ double monthly_mortgage(double sell_price, double interest_rate, int years_of_lo
 //
 // Returns:    None
 //
-// Author:     Lei Hao
+// Author:     
 //
 // Date:       2019.7.30
 //
