@@ -1,7 +1,7 @@
 /*****************************************************************************
  Filename:      LeiHao_Lab6.cpp
  
- Author:        Lei Hao
+ Author:        
  
  Date:          2019.08.05
  
@@ -91,7 +91,7 @@ void output_monthly_data(double credit_card_balance, double min_payment, double 
 //
 // Returns:    0
 //
-// Author:     Lei Hao
+// Author:     
 //
 // Date:       2019.7.30
 //
@@ -150,7 +150,7 @@ int main() {
 //
 // Returns:    None
 //
-// Author:     Lei Hao
+// Author:     
 //
 // Date:       2019.7.30
 //
@@ -194,7 +194,7 @@ void input_info(double& credit_card_balance, double& interest_rate, double& perc
 //
 // Returns:    None
 //
-// Author:     Lei Hao
+// Author:     
 //
 // Date:       2019.7.30
 //
@@ -247,7 +247,7 @@ double calc_monthly_payment(double& credit_card_balance, double interest_rate, d
 //
 // Returns:    None
 //
-// Author:     Lei Hao
+// Author:     
 //
 // Date:       2019.7.30
 //
@@ -296,7 +296,7 @@ void output_header(double credit_card_balance, double interest_rate, double perc
 //
 // Returns:    None
 //
-// Author:     Lei Hao
+// Author:     
 //
 // Date:       2019.7.30
 //
